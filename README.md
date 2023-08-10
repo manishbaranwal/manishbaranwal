@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manishbaranwal
 - 👀 I’m interested in freelance work
 - 🌱 I’m currently learning random things
-- 💞️ I’m looking to collaborate on any application developed on NodeJs, PHP, JavaScript
+- 💞️ I’m looking to collaborate on any application developed on Node, PHP, JavaScript
 - 📫 How to reach me - raj.manishkr@gmail.com
 
 <!---
